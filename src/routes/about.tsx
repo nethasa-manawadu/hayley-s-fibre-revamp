@@ -117,15 +117,13 @@ function VisionMission() {
           <article className="bg-background p-10 md:p-14">
             <p className="font-serif text-brass text-sm tracking-widest">VISION</p>
             <h3 className="mt-6 font-serif text-3xl text-primary leading-snug">
-              To be the world's most trusted name in natural coconut fibre —
-              setting the standard for quality, innovation and responsibility.
+              To be the leading provider of innovative, sustainable and environmentally-friendly products and solutions.
             </h3>
           </article>
           <article className="bg-background p-10 md:p-14">
             <p className="font-serif text-brass text-sm tracking-widest">MISSION</p>
             <h3 className="mt-6 font-serif text-3xl text-primary leading-snug">
-              To craft enduring coir products that honour the land, empower our
-              communities and serve customers with uncompromising integrity.
+              To be the globally preferred choice by delivering value to all stakeholders through a range of sustainable and environmentally-friendly products and solutions.
             </h3>
           </article>
         </div>
