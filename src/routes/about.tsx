@@ -56,7 +56,7 @@ function AboutHero() {
       </div>
       <div className="relative container-prose pb-24 pt-40 text-primary-foreground">
         <p className="eyebrow text-brass">Our story</p>
-        <h1 className="mt-6 font-serif text-5xl md:text-7xl lg:text-8xl leading-[1.02] max-w-4xl">
+        <h1 className="mt-6 font-serif text-5xl md:text-7xl lg:text-7xl leading-[1.02] max-w-4xl">
           Rooted in the soil of <em className="italic text-brass">Sri Lanka</em>.
         </h1>
         <p className="mt-8 max-w-xl text-lg text-primary-foreground/80 leading-relaxed">

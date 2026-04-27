@@ -53,20 +53,14 @@ function Hero() {
           height={1080}
           className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-primary via-primary/60 to-primary/10" />
-        <div className="absolute inset-0 bg-gradient-to-r from-primary/70 via-transparent to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/30 to-transparent" />
       </div>
 
       <div className="relative container-prose pb-24 pt-40 text-primary-foreground">
         <p className="eyebrow text-brass">Since 1878 · Sri Lanka</p>
-        <h1 className="mt-6 font-serif text-5xl md:text-7xl lg:text-8xl leading-[1.02] max-w-5xl">
-          A heritage woven from <em className="italic text-brass">coconut</em> &nbsp;and craft.
+        <h1 className="mt-6 font-serif text-5xl md:text-7xl lg:text-7xl leading-[1.02] max-w-4xl">
+          A heritage woven from <em className="italic text-brass">coconut</em> and craft.
         </h1>
-        <p className="mt-8 max-w-xl text-lg text-primary-foreground/80 leading-relaxed">
-          For over 146 years, Hayleys Fibre has cultivated the world's most
-          refined coconut coir — quietly shaping industries from horticulture to
-          home, with quality that endures.
-        </p>
         <div className="mt-10 flex flex-wrap items-center gap-4">
           <a
             href="#who"
@@ -81,22 +75,6 @@ function Hero() {
           >
             Our products
           </a>
-        </div>
-
-        {/* heritage stats */}
-        <div className="mt-20 grid grid-cols-3 gap-8 max-w-2xl border-t border-primary-foreground/15 pt-8">
-          {[
-            { n: "146", l: "Years of legacy" },
-            { n: "400+", l: "Product variants" },
-            { n: "10", l: "Production facilities" },
-          ].map((s) => (
-            <div key={s.l}>
-              <p className="font-serif text-4xl text-brass">{s.n}</p>
-              <p className="text-xs uppercase tracking-widest text-primary-foreground/60 mt-1">
-                {s.l}
-              </p>
-            </div>
-          ))}
         </div>
       </div>
     </section>
@@ -127,7 +105,7 @@ function WhoWeAre() {
           <p className="eyebrow">Who we are</p>
           <div className="divider-brass mt-3 mb-6" />
           <h2 className="font-serif text-4xl md:text-5xl leading-tight text-primary">
-            A 146-year story, <em className="italic">distilled</em>.
+            A 148-year story, <em className="italic">distilled</em>.
           </h2>
           <div className="mt-8 space-y-5 text-foreground/75 leading-relaxed">
             <p>
